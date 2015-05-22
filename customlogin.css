@@ -1,0 +1,13 @@
+#nav{margin: 0px;padding: 10px 35px 0;background-color:#f1f1f1;text-shadow: none;}
+#login{background: url("images/login-bkg-tile.gif") no-repeat scroll center top transparent;margin: 5em auto 1em;padding: 40px 0 0;width: 425px;}
+#login form {background: url("images/login-bkg-bottom.gif") no-repeat scroll center bottom transparent;min-height:210px;padding: 0 50px 25px;border:none;-moz-border-radius: none;-moz-box-shadow: none;box-shadow:none; }
+form{background:nothing;	-webkit-box-shadow: #000000 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;}
+#login form .submit input {-moz-border-radius: 0px 0px 0px 0px;background: url("images/fade-butt.png") repeat scroll 0 0 transparent;border-color: #CCCCCC #999999 #999999 #CCCCCC;border-right: 3px double #999999;border-style: double;border-width: 3px;color: #333333;font-weight: normal;text-shadow: none;margin-top:30px}
+label{color:white;}
+#login p label{font-size: 11px;}
+#login h1 a{background:none;border-bottom: medium none;height: 88px;}
+div.error, .login #login_error {background-color: #FFEBE8;border-color: #CC0000;}
+#login_error, .message {-moz-border-radius: 3px 3px 3px 3px;border-style: solid;border-width: 1px;margin: 0 0 16px 43px !important;padding: 12px;color:black;margin-left: 45px;width: 310px;}
+#backtoblog {background-color: #f1f1f1;margin:0px 0px 0px 0px;}
+.login label {color: white;}
+.login #nav{margin: 0px 0px 0px 0px; }
